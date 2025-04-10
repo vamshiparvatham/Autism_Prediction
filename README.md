@@ -57,7 +57,7 @@ Through this research, we gained foundational insights into Bayesian Networks, u
  1. ### **Clone the repository**:
 
     ```bash
-    git clone https://github.com/ayushkumar912/Toddler_Autism_Prediction.git
+    git clone https://github.com/vamshiparvatham/Autism_Prediction.git
     cd Toddler_Autism_Prediction
     ```
 
@@ -145,14 +145,5 @@ We referred to a wide range of resources throughout the project, including:
 - [Machine Learning Tutorial on YouTube](https://www.youtube.com/watch?v=i_LwzRVP7bg)
 - [ASD Tests Online Resource](https://www.asdtests.com/)
 
-##  Contributors
-- **Aninda Paul**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Roll No: **202211001**
-- **Ayush Kumar**&nbsp;&nbsp;&nbsp;&nbsp;Roll No: **202211008**
-- **Devrikh Jatav**&nbsp;&nbsp;&nbsp;Roll No: **202211018**
-- **Inarat Hussain**&nbsp;&nbsp;Roll No: **202211030**
-
-## License
-
-This project is licensed under the **Apache License**. See the [LICENSE](LICENSE) file for details.
 
 --- 
